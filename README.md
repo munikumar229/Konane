@@ -97,9 +97,7 @@ Declares the winner when the game ends.
 ### `KonaneGame.restart_game(self)`
 Restarts the game, resetting all game states and variables.
 
-## License
 
-This project is open-source and available under the MIT License.
 
 ## Acknowledgments
 
